@@ -14,5 +14,8 @@ Real-time multiplayer coding competition platform with AI-powered code analysis.
  - **Database:**
  - **Other:**
 
+## Author
+Vladislav Slugin
+
 ## License
 MIT Licence: [LICENSE](https://github.com/vladslugin987/code-battle/blob/main/LICENSE).
